@@ -2,24 +2,28 @@ Welcome to my GitHub Data Projects repository.
 
 Here you can find a collection of my data projects, handled and created using Microsoft Excel, Power BI, Python, SQL.
 
+---
 
+### Prosperity Report
+#### Power BI Dashboard
+Analysis of a dataset pertaining to data roles and their salaries.
 
-# Contents
-## Prosperity Report
-##### Prosperity Report Dashboard - DH.pbix
-##### Prosperity Report Written Analysis - DH.docx
-##### ds_salaries-dataset.csv
-Created using Microsoft Excel and Power BI, I used a dataset from kaggle to compare and analyse data pertaining to employment of different roles within the industry.
-Explore a comprehensive view into the data and check out my dashboard where I approach from three angles: Salary, Geographic and Company Analysis, comparing the roles with the best potential earnings, the best locations for data roles across the globe and what sized company may be best to work for.
-In addition to my four-page dashboard, you are also invited to read my discussion and thoughts on what the data shows in the Written Analysis .docx file.
+---
 
-## SalesWatch
-##### SalesWatch Dashboard - DH.pbix
-##### dataset.csv
-Blahblahblah
+### SalesWatch
+#### Power BI Dashboard
+Dive into this dashboard where we analyse a dataset of sales, from three different vantage points.
 
-## VoteShare
-##### VoteShare Dashboard - DH.pbix
-##### VoteShare Written Analysis - DH.docx
-##### CSV.csv
-Blahblahblah
+---
+
+### Superheroes - I am Dashboard
+#### Power BI Dashboard
+What sets these superheroes apart?
+
+---
+
+### Adult Census Income (US)
+#### Python Analysis
+This analysis explores the impact of internet access, formal education, work hours, gender, and marital status on income distribution in the digital age, aiming to provide insights into evolving economic dynamics.
+
+---
